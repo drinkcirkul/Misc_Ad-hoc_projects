@@ -1,0 +1,5 @@
+address = 'db.panoply.io'
+port = '5439'
+username = 'vikas@drinkcirkul.com'
+pw = '3kG&483*'
+dbname = 'cirkul_analytics'

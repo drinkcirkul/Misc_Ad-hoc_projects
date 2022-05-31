@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "analytics-snowflake",
+  "private_key_id": "c77811ea8d6d7190d58711f02d1246bb23f9a0ef",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC0G2VZT+Bpc+Oy\nOnWynwhi4jE/r3briCBzkfbHXRiPfzmlR8S14axHLPiUbTNDyRmaW6mgOMxSzkCT\nweLWaJLUh81MVl8gsCYQ1rsV56nNfZvFNyA+Q4TjeUieED3rPtdY98DvQaDrBlPM\ncsoCEti6RwOK8oXx+munvo8IuAHlT28EbdtTXGN6vUHVGjowKn13Pg9e/PrhNJzX\n0ZKutxubxOi0w3d7NaOFFtn4pibogmOYtsK56+OgJRpgJjcTTwncvmGNdTlFtpfp\nS1cbhDavLNClZE6ofQAIyA1ZoIYXhfMfcdhzI1EHRdc+bKZpZ9d2Bss7yDpSvJKS\nO5TVdTjPAgMBAAECggEATVlEpd4diPxJyeW8XVlaPylYMDsZbd643RlPK+CJ5zqi\n1Z4kV15TX//qw8fAD/kCI14BU7uA2IEWj75hPmaLxHWMECA522568pldoHMs5ADx\nUHmzwbm6jPyt2KAuD2UeE+nW9ImxY64EeBXGNqzEYf+UgGxWZQ0AhfpbMEniGonR\nUczOMj2e1KQ7hBlYRKcWBdfPvjaLwe2SMT9hxlazOaiaMqrOTxZKnpgdaFFZyAxF\nwDH6SAO3zBKr/qFORfYUdFeYMAeHhFIE0RW6lQN2lP6Wh3g7ssWavUaeALB7nZ30\nNLSqidQ/Ga7WYT/RlJFtcyspN45T1ll3PkuIJXNMNQKBgQDliMdf0r/B4zWJGaq1\nQgYOyU7bReAeYd02rDv67GZZvQ5pG5bz1FPc9Hc5p/FIS5AlQzpcIcI3S28orglb\nQHUcJy8wrFEsaJ0dkK7IHizHvwWq9iMFySwMJa3d3sgJFvGL30vNmId9zQCxMohh\nPAct3sphwMOwf9rUR/3wowXhywKBgQDI36jm4nDvcqNLIJRy1adcnutIU5Oaw4mD\nxNp/C1gddGxhN3Nn0NfyK5VAsHnpOoI7rHuzW1FdDj0Egdpz4HR/9BKptEUxtOyJ\nDFg3oPiImzLTYxvfeiN+KM7DJN6kqs/q2m8KmWwrXVM5NceVkwCoh77EPSrTxhvd\nAgvrvjwUjQKBgQCist9PxtzxnBH4il78eD4/AOaKeu8v2gKpnFAvvp2WAnJSgqHv\nV5PSTN6t2aMnsZgNMagOYkd+VlQGq8YqDnh0ajoC8EHhjo2/xSx+4RSwyXBFDI8q\nrLwyKAsj96Qm/UJd+PuMUg/IViWldMJC2f/kvcUKoU6Uryv3yMfxaDzlHQKBgCpY\nvEqwQg64pCQaYjEzSW0FM6SzudJOlpbo0QcnZRQQjyiPgAzKwjuTZIuWqJy6cOoT\nmqBdB/IOJl7k4SC8mNLAqY6NKmkoMxVRPOe9T6e80CIwKpgaL5FRGQWaqDUerWZd\nVjttzJf3vKu64rBtpR3iQB0up/CtOwKEg+7W0+OhAoGAQfO7WPTpC1FPtqSfGSvX\n38UcNos7Zcp7i4EclPGFxhYHNqbIPxvPGjTk/MIRfDXrJeWWnE2p2ROqekagfbrM\nSPhppAn13UUDFYfei0E/q7oEetWGX5c+gdUyAW/uG812kQgG9csXIVJy790qqNRx\nBohtW8SpFCaRmj45DpMb/e4=\n-----END PRIVATE KEY-----\n",
+  "client_email": "vikas-58@analytics-snowflake.iam.gserviceaccount.com",
+  "client_id": "109494167484958565164",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/vikas-58%40analytics-snowflake.iam.gserviceaccount.com"
+}
